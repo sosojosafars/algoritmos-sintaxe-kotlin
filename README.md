@@ -26,7 +26,7 @@ The goal is to improve Kotlin.<br>
 
 <h2 id=technology>:toolbox: Technology</h2>
 
-The following tools were used in the construction of the project:
+The following tools were used in the construction of the project: 
 
 - IDE: <a href="https://visualstudio.microsoft.com/downloads/">Visual Studio Code</a>
 - SDK: <a href="https://go.microsoft.com/fwlink/?linkid=2088631">Net FrameWork 4.8</a>
